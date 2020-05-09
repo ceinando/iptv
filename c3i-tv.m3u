@@ -19,3 +19,22 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="",TRANS TV HD
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY" tvg-logo="" group-title="INDIHOME TV",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="INDIHOME TV",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="DESNEY CHANNEL" tvg-logo="" group-title="INDIHOME TV",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON ASIA" tvg-logo="" group-title="INDIHOME TV",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="INDIHOME TV",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="INDIHOME TV",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="INDIHOME TV",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+#EXTINF:-1 tvg-id="MTV HD" tvg-logo="noimage.png" group-title="LAIN LAIN TV",MTV HD
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
